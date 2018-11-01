@@ -1,0 +1,227 @@
+*{
+	margin: 0px; border: 0px; padding: 0px;
+}
+.container-fluid
+{
+	width: 1400px;
+	margin: auto;
+	background: #fcdb00;
+}
+
+.container
+{
+	width: 90%;
+	margin: auto;
+	border: 1px solid #fcdb00;
+}
+
+.row
+{
+	display: flex;
+	justify-content: center;
+}
+.row_{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.row_ div{
+	margin-right: 4%;
+}
+.col-2{
+	width: 10%;
+	margin-left:2%;
+}
+.col-2 a{
+	text-align: center;
+}
+
+.col-2:first-child
+{
+	margin-right:39%;
+}
+
+.lg
+{
+	margin-top: 6%;
+}
+a{
+	text-decoration: none;
+}
+.feature{
+	font-size: 25px;
+}
+.col-6	
+{
+	margin: 5% 0 0 -5%;
+	width: 30%;
+}
+
+.col-3
+{
+	width: 25%;
+	margin-left: 20%;
+}
+
+.content_1 p{
+	padding:3% 3% 0 0;
+	color: #313841;
+	font-size: 24px;
+}
+#p1{
+	font-size: 15px;
+	color: #555555;
+}
+
+.radius{
+	border-radius: 15px;
+	width: 15px;
+	height: 15px;
+	margin: 4% 1% 5% 0;
+	border: 1px solid white;
+}
+
+.radius:first-child{
+
+	background: none;
+	background: white;
+}
+.radius:last-child{
+	margin-right: 10%;
+}
+.section, .content
+{
+	width: 100%;
+	margin: auto;
+	background: white;
+}
+
+.section:last-child
+{
+	margin-top: 5%;
+}
+.col-4{
+	margin-right: 7%;
+	width: 20%;
+}
+.lm
+{
+	width: 50%;
+}
+.footer
+{
+	background: #010101;
+	width: 100%;
+	height: 700px;
+	margin: auto;
+
+}
+
+.col-7{
+	margin-left: 3%;
+	width: 38%;
+}
+.col-7 input
+{
+	width: 100%;
+	height: 50px;
+	border-radius: 10px;
+}
+.col-8{
+	margin-left: 2%;
+	width: 12%;
+}
+.col-9{
+	width: 50%;
+}
+
+.kc{
+	padding: 1% 0 2% 0;
+	font-family: PTSans;
+}
+button{
+	width: 70%;
+	height: 50px;
+	background: #fcdb00;
+	border-radius: 8px;
+}
+
+.hg div{
+	margin:5% 2% 0 0 ;
+}
+
+.td	{
+	margin-top: 10%;
+}
+.the_end{
+	color: white;
+	font-size: 16px;
+}
+
+
+.px{
+	margin-right:5%;
+}
+.px p a{
+	text-decoration: none;
+	color: white;
+}
+
+/*@font-face {
+    font-family: "PT Sans Bold";
+    src: url(font/PTC55F.ttf);
+    font-weight: bold;
+}*/
+@font-face {
+    font-family: "HelveticaNeue_Bold";
+    src: url("../font/Helvetica_Neu_Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Sans_Regular";
+    src: url("../font/PT-Sans-Regular.ttf");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "PT_Sans_bl";
+    src: url("../font/PT_Sans-Web-Bold.ttf");
+    font-weight: bold;
+}
+
+.color
+{
+	color: #898989;
+}
+.font-size
+{
+	font-size: 25px;
+}
+
+.font_hel_bl{
+	font-family: "HelveticaNeue_Bold";
+}
+
+.font_bl
+{
+	font-family: "PT_Sans_bl";
+}
+.font_reg
+{
+	font-family: "Sans_Regular";
+}
+/*@font-face {
+    font-family: ptscaption;
+    src: url(.);
+    font-weight: bold;
+}
+@font-face {
+    font-family: ptscaption;
+    src: url(font/PTC55F.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: ptscaption;
+    src: url(font/PTC55F.ttf);
+    font-weight: bold;
+}*/
