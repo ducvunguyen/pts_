@@ -86,9 +86,6 @@ a{
 	background: none;
 	background: white;
 }
-.radius:last-child{
-	margin-right: 10%;
-}
 .section, .content
 {
 	width: 100%;
