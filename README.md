@@ -11,8 +11,8 @@ Yêu cầu:
 - images
 ## Thực hiện bởi [Nguyen Duc Vu](https://github.com/ducvunguyen)
 ## Giao diện
--[Link]( http://localhost:63342/pts_/app/index.html?_ijt=6hhre2d31cbddeksekm771vr6n)
--[ảnh](http://localhost:63342/pts_/app/img.html?_ijt=i6kkjieb5s91rglutvm4gjri0v)
+- [Link](https://ducvunguyen.github.io/pts_/app/index.html?_ijt=6hhre2d31cbddeksekm771vr6n)
+- [ảnh](https://ducvunguyen.github.io/pts_/app/img.html?_ijt=i6kkjieb5s91rglutvm4gjri0v)
 ## Kiến thức nắm được
 
 Sử dụng 1 base code html
